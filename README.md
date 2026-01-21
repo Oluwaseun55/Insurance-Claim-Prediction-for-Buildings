@@ -92,7 +92,8 @@ git clone https://github.com/oluwaseun55/Insurance-Claim-Prediction-for-Building
 2. Navigate to the project directory:
 
 ```bash
-cd your-repo-name
+cd Insurance-Claim-Prediction-for-Buildings
+
 ```
 
 3. Open the notebook:
