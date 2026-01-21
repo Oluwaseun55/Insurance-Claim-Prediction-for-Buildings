@@ -129,4 +129,4 @@ This project is for **educational and research purposes**.
 
 ---
 
-⭐ *If you find this project useful, please consider giving the repository a star!*
+
