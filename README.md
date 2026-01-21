@@ -85,7 +85,8 @@ Insurance companies need to accurately assess the risk associated with insuring 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/oluwaseun55/Insurance-Claim-Prediction-for-Buildings.git
+
 ```
 
 2. Navigate to the project directory:
